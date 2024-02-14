@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prashanth-MERN/static/css/main.7784ee36.css",
+    "main.js": "/prashanth-MERN/static/js/main.b82f4a54.js",
+    "static/js/592.c73d0ff1.chunk.js": "/prashanth-MERN/static/js/592.c73d0ff1.chunk.js",
+    "index.html": "/prashanth-MERN/index.html",
+    "main.7784ee36.css.map": "/prashanth-MERN/static/css/main.7784ee36.css.map",
+    "main.b82f4a54.js.map": "/prashanth-MERN/static/js/main.b82f4a54.js.map",
+    "592.c73d0ff1.chunk.js.map": "/prashanth-MERN/static/js/592.c73d0ff1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7784ee36.css",
+    "static/js/main.b82f4a54.js"
+  ]
+}
